@@ -2,24 +2,6 @@
 
 ### *AI-Powered Ethical Hiring Intelligence Platform*
 
-<p align="center">
-  <img src="./public/logo.png" alt="Skill-Hire Logo" width="180"/>
-</p>
-
-<p align="center">
-  <b>Optimize Resumes. Detect Bias. Hire by Merit.</b><br/>
-  An AI-powered recruitment platform that combines ATS optimization, resume intelligence, fairness auditing, and recruiter analytics into one ethical hiring ecosystem.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Supabase-Auth%20%26%20Storage-3FCF8E?style=for-the-badge&logo=supabase"/>
-  <img src="https://img.shields.io/badge/AI-Fairness%20360-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fairlearn-Fairness-orange?style=for-the-badge"/>
-</p>
-
 ---
 
 # Table of Contents
